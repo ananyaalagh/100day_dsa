@@ -1,26 +1,26 @@
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
-// Q1
+// // Q1
 
-import java.util.LinkedList;
-import java.util.Scanner;
-public class Day21 {
-          public static void main(String[] args) {
-              Scanner sc=new Scanner(System.in);
+// import java.util.LinkedList;
+// import java.util.Scanner;
+// public class Day21 {
+//           public static void main(String[] args) {
+//               Scanner sc=new Scanner(System.in);
 
-              System.out.print("Enter the number of elements:");
-              int n=sc.nextInt();
+//               System.out.print("Enter the number of elements:");
+//               int n=sc.nextInt();
 
-              LinkedList<Integer> list= new LinkedList<>();
+//               LinkedList<Integer> list= new LinkedList<>();
 
-              System.out.println("Enter the elements:");
-              for(int i=0; i<n; i++){
-                    list.add(sc.nextInt());
-              }
+//               System.out.println("Enter the elements:");
+//               for(int i=0; i<n; i++){
+//                     list.add(sc.nextInt());
+//               }
 
-              System.out.print("Linked list:"+list);
-          }}
+//               System.out.print("Linked list:"+list);
+//           }}
 
 // Q2
 
